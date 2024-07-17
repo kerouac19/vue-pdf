@@ -1,5 +1,5 @@
 {
-  "name": "vue-pdf",
+  "name": "vue-pdf-legacy",
   "version": "4.3.1",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
@@ -13,7 +13,7 @@
     "pdf",
     "viewer"
   ],
-  "author": "Franck FREIBURGER",
+  "author": "irou",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FranckFreiburger/vue-pdf/issues"
