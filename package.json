@@ -1,6 +1,6 @@
 {
   "name": "vue-pdf-legacy",
-  "version": "4.3.1",
+  "version": "4.3.4",
   "description": "vue.js pdf viewer",
   "main": "src/vuePdfNoSss.vue",
   "scripts": {},
@@ -21,10 +21,10 @@
   "homepage": "https://github.com/FranckFreiburger/vue-pdf#readme",
   "dependencies": {
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
-    "loader-utils": "^1.4.0",
+    "loader-utils": "^3.3.1",
     "pdfjs-dist": "2.16.105",
     "raw-loader": "^4.0.2",
     "vue-resize-sensor": "^2.0.0",
-    "worker-loader": "^2.0.0"
+    "worker-loader": "^3.0.8"
   }
 }
